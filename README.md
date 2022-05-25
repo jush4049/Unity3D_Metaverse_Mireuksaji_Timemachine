@@ -1,4 +1,4 @@
-# 메타버스 미륵사지 타임머신(Unity_Metaverse_Mireuksaji_Timemachine)
+# 메타버스 미륵사지 타임머신(Metaverse_Mireuksaji_Timemachine)
 
 개발 기간 : 2021.09.24 ~ 21.12.10
 
