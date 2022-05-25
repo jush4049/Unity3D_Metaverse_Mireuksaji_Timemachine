@@ -18,8 +18,10 @@ Unity를 활용한 메타버스 기반 콘텐츠 설계 및 서버 구축과  Ma
 
 - 스탬프 수집 기능(메타버스 스탬프 투어)
 
-![image](https://user-images.githubusercontent.com/96518656/170244552-bf717ca3-0850-4c9c-867a-3d0258086de2.png)
-![image](https://user-images.githubusercontent.com/96518656/170244598-29d1b45d-e1cf-4910-b171-1ea6b0c97e69.png)
+<img width="799" alt="1" src="https://user-images.githubusercontent.com/96518656/170250175-7ef47dff-b595-4c6e-bdbf-07d0a83b7310.PNG">
+<img width="803" alt="2" src="https://user-images.githubusercontent.com/96518656/170250178-139a7abb-1686-4e22-813f-4a3c6e1ed380.PNG">
+<img width="803" alt="3" src="https://user-images.githubusercontent.com/96518656/170250186-4af87065-284a-445c-884e-df934a4bf5a1.PNG">
+
 
 시연 영상 : https://www.youtube.com/watch?v=9t6g_zWpavQ
 
