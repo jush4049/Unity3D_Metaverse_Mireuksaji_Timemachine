@@ -17,6 +17,8 @@ Unity를 활용한 메타버스 기반 콘텐츠 설계 및 서버 구축과  Ma
 - 미륵사지 설화 이야기 설명(무왕설화)
 
 - 스탬프 수집 기능(메타버스 스탬프 투어)
+![image](https://user-images.githubusercontent.com/96518656/170244552-bf717ca3-0850-4c9c-867a-3d0258086de2.png)
+![image](https://user-images.githubusercontent.com/96518656/170244598-29d1b45d-e1cf-4910-b171-1ea6b0c97e69.png)
 
-
+시연 영상 : https://www.youtube.com/watch?v=9t6g_zWpavQ
 
