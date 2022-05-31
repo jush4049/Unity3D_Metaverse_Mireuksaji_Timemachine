@@ -38,3 +38,6 @@ Unity를 활용한 메타버스 기반 콘텐츠 설계 및 서버 구축과  Ma
 
 - 2021 언택트 캡스톤디자인 경진대회 & 공학과 창작의 만남 : 장려상
 
+# 저작권 등록
+
+한국저작권위원회 링크 : https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml
