@@ -30,7 +30,7 @@ Unity를 활용한 메타버스 기반 콘텐츠 설계 및 서버 구축과  Ma
 
 실행 파일 다운로드 : https://drive.google.com/file/d/1xI2MSMQWrrYnfxQNBdepJLATCmO4mAZx/view?usp=sharing
 
-코드 설명 파일 : https://drive.google.com/file/d/1ZVKRHDkYdnniVHvi3joFpTLVdoo6BZg6/view?usp=sharing
+코드 설명 파일 : https://drive.google.com/file/d/1phKXpSRiip9tXSwU9Mk2wwBf8cFvpB42/view?usp=sharing
 
 # 수상 실적
 
