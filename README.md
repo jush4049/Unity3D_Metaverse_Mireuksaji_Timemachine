@@ -13,7 +13,7 @@ Unity를 활용한 메타버스 기반 콘텐츠 설계 및 서버 구축과  Ma
 담당 업무 : Unity로 구현 가능한 전반적인 개발을 담당
 - Unity Photon 클라우드 서버 구축 및 채팅 기능 구현
 
-- Rigidbody를 활용한 캐릭터 이동 기능 구현
+- Transform 및 Rigidbody를 활용한 캐릭터 이동 기능 구현
 
 - Cinemachine을 활용한 카메라 기능 구현
 
