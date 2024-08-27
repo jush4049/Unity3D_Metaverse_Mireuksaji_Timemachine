@@ -43,4 +43,5 @@ Unity로 3D 기반 콘텐츠를 개발하고 Maya로 미륵사지 석탑을 모�
 2021.12.22 프로젝트 저작권 등록
 
 <img width="711" alt="저작권" src="https://user-images.githubusercontent.com/96518656/171133339-bbb2f110-3859-4eb8-a1bd-cfeaa41f6473.PNG">
+[C-2021-057143_등록증.pdf](https://github.com/user-attachments/files/16758168/C-2021-057143_.pdf)
 
